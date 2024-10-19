@@ -5,7 +5,7 @@ import java.util.List;
  */
 public class Calculator {
 	/*
-	 * @param i
+	 * @paraam i
 	 * @param j
 	 * @return int
 	 */
